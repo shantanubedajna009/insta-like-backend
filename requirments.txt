@@ -1,0 +1,13 @@
+fastapi
+sqlalchemy
+uvicorn
+passlib
+bcrypt
+python-multipart
+python-jose
+aiofiles
+requests
+pytest
+jinja2
+websockets
+pytesseract
